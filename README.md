@@ -1,1 +1,3 @@
 VOOOOOOOOOOOOOOOOOOM!
+
+Runs on the Atari 800 BASIC cartridge. YMMV.
